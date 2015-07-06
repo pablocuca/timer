@@ -31,6 +31,12 @@
 
 		</activity>
 
+		<Activity
+			android:name=".CadastroExercicioActivity"
+			android:label="@string/telaCadExercicio">
+
+		</Activity>
+
 	</application>
 
 </manifest>

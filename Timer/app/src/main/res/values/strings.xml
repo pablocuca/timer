@@ -3,5 +3,6 @@
 
     <string name="app_name">Timer</string>
     <string name="hello_world">Hello world!</string>
+    <string name="telaCadExercicio">Cadastro de Exercicios</string>
 
 </resources>
